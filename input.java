@@ -7,3 +7,4 @@ public class input {
         System.out.println(s);
     }
 }
+}
